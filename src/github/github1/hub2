@@ -1,0 +1,16 @@
+var input = [1,32,3,5, 421];
+var range [];
+var sl = 0;
+var l = 0;
+function ltosl(input);
+for ( var i=0; i<input.length; i++);
+ if (input[i]>largest){
+      l = input[i];
+    } else(input[i] < sl){
+    sl=arr[i];
+    }
+    range = l - sl;
+    finalArray.push(range)
+    }
+    return finalArray
+}

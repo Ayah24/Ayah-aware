@@ -3,7 +3,8 @@ import objective from "./objectives"
 function Resume() {
     return (
         <div>
-            <h2>Hello, I am a programmer!</h2>
+            <h2>Ayah Aware</h2>
+            <h3>Hello, This is my resume</h3>
             
         </div>
     )
